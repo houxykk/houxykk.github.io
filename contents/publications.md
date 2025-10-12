@@ -2,7 +2,7 @@
 -<strong> Mobile application for Southern Yun Brocade</strong>
 - Developed a mobile application to share and promote Southern Yun Brocade, a Chinese intangible cultural heritage.
 - Led the team to design features, implement UI/UX, and coordinate development tasks.
-<img src="https://github.com/houxykk/houxykk.github.io/blob/main/project.jpg?raw=true" alt="Project Image" style="width:150px; border-radius:8px; object-fit:cover;">
+- <img src="https://github.com/houxykk/houxykk.github.io/blob/main/project.jpg?raw=true" alt="Project Image" style="width:150px; border-radius:8px; object-fit:cover;">
 
 #### Activities
 -<strong>Winter Youth Olympics Volunteer, Jan. 2024</strong>
