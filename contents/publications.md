@@ -1,6 +1,7 @@
 #### Projects
 -<strong> Mobile application for Southern Yun Brocade</strong>
-- Collaborated with members of the Computer Science Club to develop a mobile application promoting Southern Yun Brocade, a Chinese intangible cultural heritage, and won 2nd place in the provincial Lanqiao Cup competition.
+- Developed a mobile application to share and promote Southern Yun Brocade, a Chinese intangible cultural heritage.
+- Led the team to design features, implement UI/UX, and coordinate development tasks.
 <img src="https://github.com/houxykk/houxykk.github.io/blob/main/project.jpg?raw=true" alt="Project Image" style="width:150px; border-radius:8px; object-fit:cover;">
 
 #### Activities
